@@ -1,0 +1,30 @@
+{
+  "name": "jaja-cli",
+  "version": "0.0.1",
+  "description": "a command to init, build, deploy a project",
+  "main": "index.js",
+  "bin": {
+    "jaja": "./bin/jaja"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "command"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poplark/jaja-cli.git"
+  },
+  "author": "poplark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poplark/jaja-cli.git/issues"
+  },
+  "homepage": "https://github.com/poplark/jaja-cli.git#readme"
+}
