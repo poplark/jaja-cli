@@ -1,6 +1,6 @@
 {
   "name": "jaja-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a command to init, build, deploy a project",
   "main": "index.js",
   "bin": {
